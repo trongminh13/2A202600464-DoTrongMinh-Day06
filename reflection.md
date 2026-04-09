@@ -141,9 +141,7 @@ Confidence score bias: AI generate prompt mà model luôn output confidence cao 
 Tóm lại:
 Vai trò "bộ não AI agent" yêu cầu kết hợp:
 
-🧠 Prompt engineering (chain-of-thought, few-shot)
-🔄 Decision logic (routing, heuristic)
-📊 Evaluation (accuracy, calibration, safety)
-🐛 Debugging (tracing reasoning, fixing hallucination)
-
-Điều thú vị nhất là thấy AI capability và limitation rất rõ — không phải magic, mà là tool cần dùng đúng cách.
+Prompt engineering (chain-of-thought, few-shot)
+Decision logic (routing, heuristic)
+Evaluation (accuracy, calibration, safety)
+Debugging (tracing reasoning, fixing hallucination)
